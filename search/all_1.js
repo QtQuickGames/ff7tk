@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['abi_5fid',['ABI_ID',['../data_2ff7tk__autogen_2moc__predefs_8h.html#a12ae39ceaadaa474ba09d20fba083f68',1,'ABI_ID():&#160;moc_predefs.h'],['../formats_2ff7tk_formats__autogen_2moc__predefs_8h.html#a12ae39ceaadaa474ba09d20fba083f68',1,'ABI_ID():&#160;moc_predefs.h'],['../utils_2ff7tk_utils__autogen_2moc__predefs_8h.html#a12ae39ceaadaa474ba09d20fba083f68',1,'ABI_ID():&#160;moc_predefs.h'],['../widgets_2ff7tk_widgets__autogen_2moc__predefs_8h.html#a12ae39ceaadaa474ba09d20fba083f68',1,'ABI_ID():&#160;moc_predefs.h']]],
   ['aborterror',['AbortError',['../class_archive.html#a2752025d615c69dee4169592342ac5cba10b7863e923d52435e8f68447d2cb883',1,'Archive::AbortError()'],['../class_lgp.html#a4661ed6ee155237edcaf4aeeb6957fe4a09b2dad6ed989ae04fcbeca28b513b12',1,'Lgp::AbortError()']]],
   ['absorb',['Absorb',['../class_f_f7_item.html#ad874f36876c4442dff3fe795f00f7455a15399c466251cd9c79adc86a2b6a5530',1,'FF7Item']]],
   ['abstract_5ffile_5fid',['abstract_file_id',['../struct_volume_descriptor2.html#a50817d91860b161944cfa53f09a27f77',1,'VolumeDescriptor2']]],
@@ -79,7 +78,7 @@ var searchData=
   ['archive_2ecpp',['Archive.cpp',['../_archive_8cpp.html',1,'']]],
   ['archive_2eh',['Archive.h',['../_archive_8h.html',1,'']]],
   ['archiveerror',['ArchiveError',['../class_archive.html#a2752025d615c69dee4169592342ac5cb',1,'Archive']]],
-  ['archiveio',['archiveIO',['../class_archive.html#a0bcc910937ae765f44f98d7f2e410f78',1,'Archive']]],
+  ['archiveio',['archiveIO',['../class_archive.html#a59c0a89b5b9dc0c34305c9f91732909c',1,'Archive']]],
   ['archiveobserver',['ArchiveObserver',['../struct_archive_observer.html',1,'ArchiveObserver'],['../struct_archive_observer.html#a518000920d4707ed312d28c6cb1689ff',1,'ArchiveObserver::ArchiveObserver()']]],
   ['armor',['armor',['../class_char_editor.html#a8031c527d98e6d87a371d5156c405cd5',1,'CharEditor::armor()'],['../class_f_f7_item.html#a1322c576d9ed2917ad49167c8b493d1da2fe87c2ed195e36b511ed67bdada7421',1,'FF7Item::Armor()']]],
   ['armor_5fbox',['armor_box',['../class_char_editor.html#ab21100e611a8d8fb6a878b259cc46e8d',1,'CharEditor']]],
